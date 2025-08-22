@@ -1,4 +1,4 @@
-# Smart Accounting (Next.js)
+
 
 ## Pokretanje lokalno:
 1. `npm install`
